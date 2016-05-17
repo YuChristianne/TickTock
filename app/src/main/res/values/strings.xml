@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TickTock</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="name">Enter event name</string>
+    <string name="DateTv">date tv</string>
+    <string name="TimeTv">time tv</string>
 </resources>
